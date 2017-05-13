@@ -1,3 +1,5 @@
+###Writeup / README
+
 ---
 
 **Vehicle Detection Project**
@@ -23,7 +25,6 @@ The goals / steps of this project are the following:
 [video1]: ./project_video_done.mp4
 
 ---
-###Writeup / README
 
 ###Histogram of Oriented Gradients (HOG)
 
